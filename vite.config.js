@@ -1,3 +1,3 @@
 export default {
-  base: "/quiz-micode-copie/",
+  base: "/quiz-micode-clone/",
 };
